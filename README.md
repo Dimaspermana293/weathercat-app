@@ -1,3 +1,4 @@
+![DemoWeathercat](https://user-images.githubusercontent.com/97396687/205931084-88b12f42-47d5-4de0-b573-1f1cd4c28c36.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
